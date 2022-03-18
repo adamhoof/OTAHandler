@@ -1,0 +1,17 @@
+{
+  "name": "OTAHandler",
+  "version": "1.0",
+  "description": "OTA capability wrapper",
+  "keywords": "OTA",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamhoof/OTAHandler.git",
+    "authors": {
+      "name": "Adam Hofman",
+      "maintainer": true
+    },
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
+}
