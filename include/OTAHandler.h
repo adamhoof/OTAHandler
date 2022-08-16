@@ -7,11 +7,9 @@
 class OTAHandler
 {
 public:
-    OTAHandler();
+    static void setEvents();
 
-    void setEvents();
+    static void init();
 
-    void init();
-
-    void maintainConnection();
+    static void maintainConnection();
 };
